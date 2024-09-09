@@ -4,10 +4,11 @@
 </strong>  </p>
 
 ## Features
-- Preconfigured plugins for enhanced development
-- Kickstart integration for easy setup
-- Optimized for performance and aesthetics
-- Custom key mappings for improved workflow
+
+- **Preconfigured plugins for enhanced development**
+- **Kickstart integration for easy setup**
+- **Optimized for performance and aesthetics**
+- **Custom key mappings for improved workflow**
 
 ## Installation
 
