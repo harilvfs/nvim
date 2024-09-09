@@ -31,5 +31,31 @@ nvim
 
 Feel free to customize the configuration by editing the files in the `lua/` and `init.lua` as per your preferences.
 
+<p align="center"> <strong>Quick overview of the repository structure:</strong>  </p>
+
+```shell
+neovim
+├── doc/                      
+│   ├── kickstart.txt         
+│   ├── tags                       
+├── init.lua                  
+├── lua/                      
+│   ├── custom
+│   │   ├── plugins
+│   │   │   ├── themes
+│   │   │   └── nord.lua
+│   │   │   └── onedark.lua
+│   │   └──init.lua
+│   │   └──neo-tree.lua
+│   │          
+│   ├── kickstart
+│   │   ├── plugins
+│   │   └──  autoformat.lua
+│   │   └── debug.lua
+│   └── keymaps.lua          
+├── .stylua.toml              
+└── lazy-lock.json            
+```
+
 
 
