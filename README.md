@@ -1,6 +1,7 @@
-# Neovim Configuration with Kickstart
+<p align="center"> <strong>Neovim Configuration with Kickstart</strong>  </p> 
 
-This repository contains my personal Neovim configuration, enhanced with Kickstart for a fast and streamlined setup.
+<p align="center"> <strong>This repository contains my personal Neovim configuration, enhanced with Kickstart for a fast and streamlined setup.
+</strong>  </p>
 
 ## Features
 - Preconfigured plugins for enhanced development
