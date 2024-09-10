@@ -33,7 +33,7 @@ nvim
 
 ## Customization
 
-Feel free to customize the configuration by editing the files in the `lua/` and `init.lua` as per your preferences.
+**Feel free to customize the configuration by editing the files in the `lua/` and `init.lua` as per your preferences.**
 
 <p align="center"> <strong>Quick overview of the repository structure:</strong>  </p>
 
