@@ -14,6 +14,8 @@
 
 ## Installation
 
+**Clone the repository into the config directory.**
+
 ```bash
 git clone https://github.com/aayushx402/nvim ~/.config/nvim
 ```
