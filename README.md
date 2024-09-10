@@ -3,6 +3,8 @@
 <p align="center"> <strong>This repository contains my personal Neovim configuration, enhanced with Kickstart for a fast and streamlined setup.
 </strong>  </p>
 
+![NVIM](https://raw.githubusercontent.com/aayushx402/neovim/main/preview.webp)
+
 ## Features
 
 - **Preconfigured plugins for enhanced development**
