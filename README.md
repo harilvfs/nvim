@@ -20,13 +20,13 @@ git clone https://github.com/aayushx402/nvim ~/.config/nvim
 
 ## Usage
 
-1. Launch Neovim:
+**1. Launch Neovim**
 
 ```bash
 nvim
 ```
 
-2. Install plugins using Lazy.nvim:
+**2. Install plugins using Lazy.nvim**
 ```bash
 :Lazy sync
 ```
