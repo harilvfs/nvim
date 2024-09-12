@@ -17,7 +17,7 @@
 **Clone the repository into the config directory**
 
 ```bash
-git clone https://github.com/aayushx402/nvim ~/.config/nvim
+git clone https://github.com/aayushx402/neovim ~/.config/nvim
 ```
 
 ## Usage
