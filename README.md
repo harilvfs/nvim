@@ -41,26 +41,27 @@ nvim
 
 ```shell
 neovim
-├── doc/                      
-│   ├── kickstart.txt         
-│   ├── tags                       
-├── init.lua                  
-├── lua/                      
-│   ├── custom
-│   │   ├── plugins
-│   │   │   ├── themes
-│   │   │   └── nord.lua
-│   │   │   └── onedark.lua
-│   │   └──init.lua
-│   │   └──neo-tree.lua
-│   │          
-│   ├── kickstart
-│   │   ├── plugins
-│   │   └──  autoformat.lua
-│   │   └── debug.lua
-│   └── keymaps.lua          
-├── .stylua.toml              
-└── lazy-lock.json            
+├── doc/
+│   ├── kickstart.txt
+│   └── tags
+├── lua/
+│   ├── custom/
+│   │   └── plugins/
+│   │       ├── themes/
+│   │       │   ├── nord.lua
+│   │       │   └── onedark.lua
+│   │       ├── init.lua
+│   │       └── neo-tree.lua
+│   ├── kickstart/
+│   │   └── plugins/
+│   │       ├── autoformat.lua
+│   │       └── debug.lua
+│   └── keymaps.lua
+├── init.lua
+├── lazy-lock.json
+├── LICENSE
+├── preview.webp
+└── README.md     
 ```
 
 
