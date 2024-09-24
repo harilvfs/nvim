@@ -35,4 +35,6 @@ return {
   "lunarvim/synthwave84.nvim",
   "github/copilot.vim",
   "nvim-neo-tree/neo-tree.nvim",
+  "rust-lang/rust.vim",
+  "deoplete-plugins/deoplete-clang",
 }
