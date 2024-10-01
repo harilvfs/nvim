@@ -3,7 +3,7 @@
 <p align="center"> <strong>This repository contains my personal Neovim configuration, enhanced with Kickstart for a fast and streamlined setup.
 </strong>  </p>
 
-![NVIM](https://raw.githubusercontent.com/aayushx402/neovim/main/preview.webp)
+![NVIM](https://raw.githubusercontent.com/harilvfs/nvim/refs/heads/main/preview.webp)
 
 ## Features
 
@@ -17,7 +17,7 @@
 **Clone the repository into the config directory**
 
 ```bash
-git clone https://github.com/aayushx402/neovim ~/.config/nvim
+git clone https://github.com/harilvfs/nvim ~/.config/nvim
 ```
 
 ## Usage
