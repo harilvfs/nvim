@@ -37,4 +37,6 @@ return {
   "nvim-neo-tree/neo-tree.nvim",
   "rust-lang/rust.vim",
   "deoplete-plugins/deoplete-clang",
+  "jose-elias-alvarez/null-ls.nvim",
+  "williamboman/mason.nvim",
 }
