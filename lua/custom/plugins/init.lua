@@ -39,4 +39,6 @@ return {
   "deoplete-plugins/deoplete-clang",
   "jose-elias-alvarez/null-ls.nvim",
   "williamboman/mason.nvim",
+  "christoomey/vim-tmux-navigator",
+  "OXY2DEV/markview.nvim",
 }
