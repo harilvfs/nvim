@@ -41,4 +41,5 @@ return {
   "williamboman/mason.nvim",
   "christoomey/vim-tmux-navigator",
   "OXY2DEV/markview.nvim",
+  "Bekaboo/dropbar.nvim",
 }
