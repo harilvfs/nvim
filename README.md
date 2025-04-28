@@ -1,20 +1,19 @@
-<p align="center"> <strong>Neovim Configuration with Kickstart</strong>  </p> 
+<p align="center"><strong>My Neovim Config (based on Kickstart)</strong></p>
 
-<p align="center"> <strong>This repository contains my personal Neovim configuration, enhanced with Kickstart for a fast and streamlined setup.
-</strong>  </p>
+<p align="center"><strong>This is basically a customized version of ChrisTitusTech's Neovim config (<a href="https://github.com/ChrisTitusTech/neovim">link</a>), tweaked for my personal workflow and preferences.</strong></p>
 
 ![NVIM](https://raw.githubusercontent.com/harilvfs/nvim/refs/heads/main/preview.webp)
 
 ## Features
 
-- **Preconfigured plugins for enhanced development**
-- **Kickstart integration for easy setup**
-- **Optimized for performance and aesthetics**
-- **Custom key mappings for improved workflow**
+- **Preconfigured plugins for a better dev experience**
+- **Kickstart setup for quick and easy installation**
+- **Tuned for speed and a clean look**
+- **Custom keymaps to boost productivity**
 
 ## Installation
 
-**Clone the repository into the config directory**
+**Clone this repo into your Neovim config folder:**
 
 ```bash
 git clone https://github.com/harilvfs/nvim ~/.config/nvim
@@ -22,22 +21,22 @@ git clone https://github.com/harilvfs/nvim ~/.config/nvim
 
 ## Usage
 
-**1. Launch Neovim**
+**1. Open Neovim**
 
 ```bash
 nvim
 ```
 
-**2. Install plugins using Lazy.nvim**
+**2. Install plugins with Lazy.nvim**
 ```bash
 :Lazy sync
 ```
 
 ## Customization
 
-**Feel free to customize the configuration by editing the files in the `lua/` and `init.lua` as per your preferences.**
+**Feel free to tweak anything you like! Most of the settings and plugins live inside the `lua/` folder and `init.lua`.**
 
-<p align="center"> <strong>Quick overview of the repository structure:</strong>  </p>
+<p align="center"><strong>Here's a quick look at the folder structure:</strong></p>
 
 ```shell
 neovim
